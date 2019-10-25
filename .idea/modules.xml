@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/my_project_parent/my_project_common/my_project_common.iml" filepath="$PROJECT_DIR$/my_project_parent/my_project_common/my_project_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my_project_parent/my_project_dao/my_project_dao.iml" filepath="$PROJECT_DIR$/my_project_parent/my_project_dao/my_project_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my_project_parent/my_project_parent.iml" filepath="$PROJECT_DIR$/my_project_parent/my_project_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my_project_parent/my_project_pojo/my_project_pojo.iml" filepath="$PROJECT_DIR$/my_project_parent/my_project_pojo/my_project_pojo.iml" />
+    </modules>
+  </component>
+</project>
