@@ -4,13 +4,13 @@
         "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
 <mapper namespace="com.myProject.mapper.UserMapper">
 
-    <insert id="insertOne" parameterType="User">
+    <insert id="insertOne" parameterType="user" >
         insert into tb_user(id,username,password)values(
         #{id},#{username},#{password}
         )
     </insert>
 
-    <select id="findAll" resultType="User">
+    <select id="findAll" resultType="com.myProject.pojo.User">
         select * from tb_user
     </select>
 

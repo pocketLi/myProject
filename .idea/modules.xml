@@ -4,8 +4,12 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/my_project_parent/my_project_common/my_project_common.iml" filepath="$PROJECT_DIR$/my_project_parent/my_project_common/my_project_common.iml" />
       <module fileurl="file://$PROJECT_DIR$/my_project_parent/my_project_dao/my_project_dao.iml" filepath="$PROJECT_DIR$/my_project_parent/my_project_dao/my_project_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my_project_parent/my_project_frontHead/my_project_frontHead.iml" filepath="$PROJECT_DIR$/my_project_parent/my_project_frontHead/my_project_frontHead.iml" />
       <module fileurl="file://$PROJECT_DIR$/my_project_parent/my_project_parent.iml" filepath="$PROJECT_DIR$/my_project_parent/my_project_parent.iml" />
       <module fileurl="file://$PROJECT_DIR$/my_project_parent/my_project_pojo/my_project_pojo.iml" filepath="$PROJECT_DIR$/my_project_parent/my_project_pojo/my_project_pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my_project_parent/my_project_user/my_project_user.iml" filepath="$PROJECT_DIR$/my_project_parent/my_project_user/my_project_user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my_project_parent/my_project_user/my_project_user_interface/my_project_user_interface.iml" filepath="$PROJECT_DIR$/my_project_parent/my_project_user/my_project_user_interface/my_project_user_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my_project_parent/my_project_user/my_project_user_service/my_project_user_service.iml" filepath="$PROJECT_DIR$/my_project_parent/my_project_user/my_project_user_service/my_project_user_service.iml" />
     </modules>
   </component>
 </project>

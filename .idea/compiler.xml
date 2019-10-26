@@ -6,16 +6,23 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="my_project_dao" />
+        <module name="my_project_user_service" />
         <module name="my_project_common" />
+        <module name="my_project_frontHead" />
+        <module name="my_project_dao" />
+        <module name="my_project_user_interface" />
         <module name="my_project_pojo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="my_project_common" target="1.8" />
       <module name="my_project_dao" target="1.8" />
+      <module name="my_project_frontHead" target="1.8" />
       <module name="my_project_parent" target="1.8" />
       <module name="my_project_pojo" target="1.8" />
+      <module name="my_project_user" target="1.8" />
+      <module name="my_project_user_interface" target="1.8" />
+      <module name="my_project_user_service" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
