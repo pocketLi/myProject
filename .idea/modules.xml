@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/my_project_parent/my_project_user/my_project_user.iml" filepath="$PROJECT_DIR$/my_project_parent/my_project_user/my_project_user.iml" />
       <module fileurl="file://$PROJECT_DIR$/my_project_parent/my_project_user/my_project_user_interface/my_project_user_interface.iml" filepath="$PROJECT_DIR$/my_project_parent/my_project_user/my_project_user_interface/my_project_user_interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/my_project_parent/my_project_user/my_project_user_service/my_project_user_service.iml" filepath="$PROJECT_DIR$/my_project_parent/my_project_user/my_project_user_service/my_project_user_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my_project_parent/my_project_user_web/my_project_user_web.iml" filepath="$PROJECT_DIR$/my_project_parent/my_project_user_web/my_project_user_web.iml" />
     </modules>
   </component>
 </project>

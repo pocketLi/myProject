@@ -3,8 +3,8 @@ package com.myProject.user.service.impl;
 import com.myProject.mapper.UserMapper;
 import com.myProject.pojo.User;
 import com.myProject.user.service.UserService;
+import org.apache.dubbo.config.annotation.Service;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Service;
 
 import java.util.List;
 
